@@ -1,5 +1,18 @@
 # Changelog
 
+## [8.3.0](https://github.com/AstroNvim/astrocommunity/compare/v8.2.1...v8.3.0) (2024-05-03)
+
+
+### Features
+
+* **recipes:** add recipe for toggling inlay hints when entering/leaving insert mode ([fd3bac1](https://github.com/AstroNvim/astrocommunity/commit/fd3bac12ae7f405ab93c2a2e646b161ce103bbe2))
+
+
+### Bug Fixes
+
+* **haskell:** don't use `astrocore` in `enabled` function ([804a1af](https://github.com/AstroNvim/astrocommunity/commit/804a1af48bb53f21e8c21312329b828189da5e33))
+* **heirline-vscode-winbar:** add missing `fallback` key to `path_func` ([a751246](https://github.com/AstroNvim/astrocommunity/commit/a751246104d1020bcaca9539204a3801be1d8bbc))
+
 ## [8.2.1](https://github.com/AstroNvim/astrocommunity/compare/v8.2.0...v8.2.1) (2024-05-02)
 
 
